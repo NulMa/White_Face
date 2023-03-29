@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Damaged_Player
+  - hidden
+  - save_Point
+  - Items
+  - Herb
+  - Boss
+  - NPC
+  - drop
+  - Gate
+  - Gate_open
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Platform
+  - Water
+  - UI
+  - trap
+  - Player
+  - Enemy
+  - NPC
+  - save
+  - Boss
+  - Spike
+  - Drop
+  - Gate
+  - Gate_open
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
